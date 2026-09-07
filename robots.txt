@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Disallow nothing — all public pages are crawlable
+# Project enquiry / form submission pages are GET-rendered and fine to crawl
+
+Sitemap: https://tatvmgroup.com/sitemap.xml
